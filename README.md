@@ -15,3 +15,8 @@ A simple React application for managing and displaying books.
 - BookCard
 - BookList
 
+## Features
+- React Router
+- Reusable Components
+- Display books using map
+- CSS Styling
