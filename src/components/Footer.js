@@ -1,10 +1,10 @@
 import React from 'react'
-
+import './Footer.css';
  function Footer() {
   return (
-    <div>
-        <h1>Footer</h1>
-    </div>
+    <footer>
+        <p> © 2026 Book Library</p>
+    </footer>
   )
 }
 export default Footer;
