@@ -6,7 +6,6 @@ import './Navbar.css';
     <nav>
         <Link to = '/'> Home</Link>
       <Link to ='/About'>About</Link>
-      <Link to = '/BookDetails'>Book Details</Link>
       <Link to = '/Books'>Books</Link>
     </nav>
   )
